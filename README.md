@@ -1,2 +1,2 @@
-# WhatsApp-UI-Clone-with-CSS
-WhatsApp UI Clone with CSS/HTML
+# WhatsApp-UI-Clone-with-CSS/Javascript
+WhatsApp UI Clone with CSS/Javascript
